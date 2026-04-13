@@ -7,8 +7,9 @@
 - 🧑‍💻 Meu nome é **Nycholas Kelvyn Braga Santos**.
 - 🎂 Tenho **18 anos**.
 - 📍 Moro em **Maranguape, Ceará** ☀️.
-- 💡 Sou um entusiasta da tecnologia buscando evoluir constantemente como desenvolvedor.
-- 🌱 Atualmente estou mergulhando fundo nos estudos de **Java** e no ecossistema de desenvolvimento backend.
+- 🎓 Estou cursando o último semestre do curso **Técnico Integrado em Informática no IFCE Campus Maranguape**.
+- 💡 Busco evoluir constantemente como desenvolvedor, com o objetivo de aperfeiçoar cada vez mais meu domínio em diversas linguagens de programação e arquitetura de software.
+- 🌱 Atualmente meu foco principal de estudo é o **Java** e o desenvolvimento backend.
 
 ---
 
